@@ -6,4 +6,4 @@ Without using framework
 ### JS
 
 ## Outputs
-<a href=""></a>
+<a href="https://github.com/dixitji99/SampleResponsivePage/blob/main/pixel%202.JPG"></a>

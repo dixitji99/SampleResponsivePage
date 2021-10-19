@@ -17,7 +17,7 @@ Without using framework
       <img src="https://github.com/dixitji99/SampleResponsivePage/blob/main/ipad.JPG" height="300px" width="auto">
     </td>
     <td>
-      <img src="https://github.com/dixitji99/SampleResponsivePage/blob/main/Output%20pic/On%20big%20screen.png" height="300px" width="auto">
+      <img src="https://github.com/dixitji99/SampleResponsivePage/blob/main/On%20big%20screen1.png" height="300px" width="auto">
     </td>
   </tr>
   </table>

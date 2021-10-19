@@ -3,7 +3,21 @@ Without using framework
 ## Technology used 
 ### Html
 ### Css
-### JS
 
 ## Outputs
-<a href="https://github.com/dixitji99/SampleResponsivePage/blob/main/pixel%202.JPG"></a>
+<table>
+  <th>Pixel 2 Output</th>
+  <th>iPad Pro Output</th>
+  <th>On Big Screens like Laptop,Desktop etc</th>
+  <tr>
+    <td>
+<img src="https://github.com/dixitji99/SampleResponsivePage/blob/main/pixel%202.JPG" height="300px" width="auto">
+    </td>
+    <td>
+      <img src="https://github.com/dixitji99/SampleResponsivePage/blob/main/ipad.JPG" height="300px" width="auto">
+    </td>
+    <td>
+      <img src="https://github.com/dixitji99/SampleResponsivePage/blob/main/Output%20pic/On%20big%20screen.png" height="300px" width="auto">
+    </td>
+  </tr>
+  </table>

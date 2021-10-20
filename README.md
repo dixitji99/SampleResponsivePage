@@ -1,5 +1,5 @@
 # SampleResponsivePage
-Without using framework
+Without using any framework
 ## Technology used 
 ### Html
 ### Css
